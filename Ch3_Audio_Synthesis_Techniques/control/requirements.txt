@@ -1,0 +1,5 @@
+numpy==1.26.3
+pillow==10.2.0
+pyo==1.0.5
+six==1.16.0
+wxPython==4.2.1
